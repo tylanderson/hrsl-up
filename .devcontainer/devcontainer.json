@@ -1,0 +1,14 @@
+{
+	"name": "HRSL-UP",
+	"context": "..",
+	"dockerFile": "../Dockerfile",
+	"settings": { 
+		"terminal.integrated.shell.linux": null
+	},
+	"extensions": [
+		"ms-python.vscode-pylance",
+		"ms-python.python",
+		"visualstudioexptteam.vscodeintellicode"
+	],
+	"workspaceFolder": "/workspaces/hrsl-up"
+}
