@@ -17,3 +17,6 @@ tqdm = "^4.60.0"
 
 [tool.poetry.dev-dependencies]
 black = "^21.4b1"
+
+[tool.poetry.scripts]
+hrsl_up = "hrsl_up.scripts.cli:cli"
